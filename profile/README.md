@@ -9,3 +9,7 @@ Plataformas disponíveis:
 * [PaperMC Hangar](https://hangar.papermc.io/Sakura)
 * Discord (Em breve...)
 * Sakura Mod Library (Em breve...)
+
+Linguagens usadas:
+
+<img src="https://skillicons.dev/icons?i=kotlin,cpp">
