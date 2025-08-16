@@ -1,5 +1,5 @@
 ## 👋 Seja muito bem-vindo a Sakura!
-**Sakura** é uma organização de Minecraft brasileira com o objetivo de fazer mods e plugins com um objetivo de alcançar a melhor experiência para jogadores!
+**Sakura** é uma organização de Minecraft brasileira fazendo mods e plugins com um objetivo de alcançar a melhor experiência para jogadores!
 
 ## Plataformas disponíveis:
 * [Modrinth](https://modrinth.com/organization/sakura-mods)
