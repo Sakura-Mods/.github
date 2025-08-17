@@ -12,4 +12,4 @@
 
 ## Linguagens usadas:
 
-<img src="https://skillicons.dev/icons?i=kotlin,cpp">
+<img src="https://skillicons.dev/icons?i=kotlin">
