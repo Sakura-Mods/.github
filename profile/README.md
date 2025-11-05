@@ -3,15 +3,12 @@
 
 ## Plataformas disponíveis:
 
-<details>
-    <summary>🔎 Aonde encontrar a gente?</summary>
-    <l>
-        <ul><a href="https://modrinth.com/organization/sakura-mods">No Modrinth</a>;</ul>
-        <ul><a href="https://hangar.papermc.io/Sakura">No PaperMC Hangar</a>;</ul>
-        <ul>No Discord (Em breve...)</ul>
-        <ul>Em Sakura Mod Library (Em breve...)</ul>
-    </l>
-</details>
+<l>
+    <ul><a href="https://modrinth.com/organization/sakura-mods">No Modrinth</a>;</ul>
+    <ul><a href="https://hangar.papermc.io/Sakura">No PaperMC Hangar</a>;</ul>
+    <ul>No Discord (Em breve...)</ul>
+    <ul>Em Sakura Mod Library (Em breve...)</ul>
+</l>
 
 ## Linguagens usadas:
 
