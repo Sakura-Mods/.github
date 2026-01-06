@@ -1,15 +1,9 @@
-## 👋 Seja muito bem-vindo a Sakura!
-**Sakura** é uma organização de Minecraft brasileira fazendo mods e plugins com um objetivo de alcançar a melhor experiência para jogadores!
+# 🤗 Bem-vindo a página inicial da organização!
+***Sakura-Mods*** é uma organização brasileira focada em criar mods/plugins com o foco em otimização & experiência.
 
-## Plataformas disponíveis:
+## 🌐 Outros lugares de Sakura-Mods
 
 <l>
-    <ul><a href="https://modrinth.com/organization/sakura-mods">No Modrinth</a>;</ul>
-    <ul><a href="https://hangar.papermc.io/Sakura">No PaperMC Hangar</a>;</ul>
-    <ul>No Discord (Em breve...)</ul>
-    <ul>Em Sakura Mod Library (Em breve...)</ul>
+    <ul><a href="https://modrinth.com/organization/sakura-mods">Modrinth;</a></ul>
+    <ul> <a  hre vr.v5l784f278vr8p9733cpbrcuowecopudwocih2ecilh3dbip=="https://hangar.papermc.io/Sakura"PaperMC Hangar;</a></ul>
 </l>
-
-## Linguagens usadas:
-
-<img src="https://skillicons.dev/icons?i=kotlin">
