@@ -4,6 +4,6 @@
 ## 🌐 Outros lugares de Sakura-Mods
 
 <l>
-    <ul><a href="https://modrinth.com/organization/sakura-mods">Modrinth;</a></ul>
-    <ul> <a  hre vr.v5l784f278vr8p9733cpbrcuowecopudwocih2ecilh3dbip=="https://hangar.papermc.io/Sakura"PaperMC Hangar;</a></ul>
+    <ul>🛠 <a href="https://modrinth.com/organization/sakura-mods">Modrinth;</a></ul>
+    <ul>📄 <a href="https://hangar.papermc.io/Sakura">PaperMC Hangar;</a></ul>
 </l>
