@@ -1,9 +1,5 @@
-# 🤗 Bem-vindo a página inicial da organização!
-***Sakura-Mods*** é uma organização brasileira focada em criar mods/plugins com o foco em otimização & experiência.
+# 🦊 Movemos de provedor de Git!
+É com muita felicidade que a gente anuncia a saída do GitHub para ir pro GitLab!
 
-## 🌐 Outros lugares de Sakura-Mods
-
-<l>
-    <ul>🛠 <a href="https://modrinth.com/organization/sakura-mods">Modrinth;</a></ul>
-    <ul>📄 <a href="https://hangar.papermc.io/Sakura">PaperMC Hangar;</a></ul>
-</l>
+### ❓️ Por quê?
+Leia o [Perfil do LuizFcc](https://github.com/LuizFcc)
